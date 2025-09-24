@@ -4,7 +4,7 @@
     text-align: center;
 }
 
-.embed {
+iFrame {
   display: block;
   margin: 0 auto;
 }
