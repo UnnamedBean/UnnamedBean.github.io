@@ -1,17 +1,5 @@
-p {
-    font: normal 12px Arial, sans-serif;
-}
-
-.red_text {
+h1 {
     font: bold 140px "Comic Sans MS", cursive, sans-serif;
     color: red;
     text-align: center;
-}
-
-body {
-    background-color: black;
-}
-
-.divider {
-    padding-top: 40%;
 }
