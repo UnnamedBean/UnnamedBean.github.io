@@ -19,13 +19,3 @@ iframe {
 body {
     background-color: #FFFF00;
 }
-
-<style>
-  body {
-    background-color: red !important;
-  }
-  .text {
-    color: green !important;
-    font-size: 50px !important;
-  }
-</style>
