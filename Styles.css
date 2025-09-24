@@ -1,3 +1,9 @@
+.text {
+    font: bold 140px font-family: 'MyCustomFont', sans-serif;
+    color: black;
+    text-align: center;
+}
+
 iframe {
   display: block;
   margin: 0 auto;
@@ -9,11 +15,6 @@ iframe {
   font-weight: normal;
   font-style: normal;
 
-.text {
-    font: bold 140px font-family: 'MyCustomFont', sans-serif;
-    color: black;
-    text-align: center;
-}
 
 body {
   background-color: #FFFF00
