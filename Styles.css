@@ -1,21 +1,21 @@
 .text {
-    font: bold 140px font-family: 'MyCustomFont', sans-serif;
+    font: bold 140px 'MyCustomFont', sans-serif;
     color: black;
     text-align: center;
 }
 
 iframe {
-  display: block;
-  margin: 0 auto;
+    display: block;
+    margin: 0 auto;
 }
 
 @font-face {
-  font-family: 'MyCustomFont';
-  src: url('monofonto.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-
+    font-family: 'MyCustomFont';
+    src: url('monofonto.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
 
 body {
-  background-color: #FFFF00
+    background-color: #FFFF00;
 }
