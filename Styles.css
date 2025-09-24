@@ -1,12 +1,16 @@
-.text {
-    font: bold 140px "Comic Sans MS", cursive, sans-serif;
-    color: black;
-    text-align: center;
-}
-
 iframe {
   display: block;
   margin: 0 auto;
 }
 
+@font-face {
+  font-family: 'MyCustomFont';
+  src: url('monofonto.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
 
+.text {
+    font: bold 140px font-family: 'MyCustomFont', sans-serif;
+    color: black;
+    text-align: center;
+}
